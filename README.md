@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Zahra 👋
 
-<!--
-**zahra-ardane/zahra-ardane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack engineer who loves turning complex ideas into clean, scalable systems.  
+I focus on writing maintainable code, designing practical architectures, and continuously refining how software is built.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+**Frontend:** React, Next.js, TypeScript  
+**Backend:** Node.js, Express.js  
+**Database:** MySQL  
+**Other:** REST APIs, Docker, Git, CI/CD, System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently
+- Building my personal portfolio with Next.js  
+- Learning Kubernetes and microservice patterns  
+- Exploring better architecture for large-scale Node.js systems
+
+### 📫 Connect
+[LinkedIn](your-link) • [Portfolio](your-site)
