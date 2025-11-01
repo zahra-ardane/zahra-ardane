@@ -40,4 +40,4 @@ I build with the belief that software should be both **functional** and **beauti
 ---
 
 Thanks for stopping by 🤍  
-You can explore my work, thoughts, and projects on [my portfolio](zahraardaneh.com).
+You can explore my work, thoughts, and projects on [my portfolio](https://www.zahraardaneh.com/).
